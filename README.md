@@ -11,7 +11,7 @@ This is a student project for learning Browser Storage concepts!
 ## Installation Steps
 
 - Clone this project `git clone https://github.com/ankurbag/storage-demo.git`
-- Go to folder `cd react-jsx-demo-students`
+- Go to folder `cd storage-demo`
 - Run `npm install` or `npm i`
 - Run `npm start`
 - Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
